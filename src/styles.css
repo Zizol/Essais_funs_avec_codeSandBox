@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+}
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.enabled {
+  pointer-events: auto;
+}
